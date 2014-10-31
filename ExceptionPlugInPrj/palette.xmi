@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette:CategoryCmp xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:palette="http://www.ibm.com/wbi/2005/eflow_palette" xmlns:utility="http://www.ibm.com/wbi/2005/eflow_utility" xmi:id="Exception">
+  <categoryLabel xsi:type="utility:TranslatableString" key="category.name" bundleName="palette" pluginId="ExceptionPlugInPrj"/>
+  <cmpGroups xsi:type="palette:GroupCmp">
+    <cmpEntries xsi:type="palette:ToolEntry" xmi:id="Exception" icon16Name="platform:/plugin/ExceptionPlugInPrj/icons/full/clcl16/Exception.gif" icon32Name="platform:/plugin/ExceptionPlugInPrj/icons/full/obj32/Exception.gif" toolClassName="com.ibm.etools.mft.flow.editor.MFTNodeCreationTool" toolClassPluginId="com.ibm.etools.mft.flow" nodeURI="Exception.msgflow">
+      <entryLabel xsi:type="utility:TranslatableString" key="entry.Exception" bundleName="palette" pluginId="ExceptionPlugInPrj"/>
+      <entryShortDescription xsi:type="utility:TranslatableString" key="tooltip.Exception" bundleName="palette" pluginId="ExceptionPlugInPrj"/>
+    </cmpEntries>
+  </cmpGroups>
+</palette:CategoryCmp>
